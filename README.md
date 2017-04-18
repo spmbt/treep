@@ -1,2 +1,2 @@
 # treep
-Tree of projects npm manager
+Tree of projects Gulp-based npm manager

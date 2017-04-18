@@ -1,3 +1,10 @@
+ARCH/
+*.rar
+*.zip
+--*.rtf
+.idea/
+node_modules/
+
 # Logs
 logs
 *.log
